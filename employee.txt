@@ -1,0 +1,2 @@
+No                  Date of Hire        Date of Birth       ID                  Name                Contact             Address             Salary              
+1                   1                   1                   1                   1                   1                   1                   1                   
